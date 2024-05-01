@@ -1,0 +1,23 @@
+{
+  "name": "saturday-light",
+  "displayName": "Saturday Light",
+  "description": "A light theme with saturated colours and desaturated UI",
+  "version": "0.0.4",
+  "private": "true",
+  "publisher": "SupermarketCartographer",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Saturday Light ",
+        "uiTheme": "vs",
+        "path": "./themes/Saturday Light -color-theme.json"
+      }
+    ]
+  }
+}
